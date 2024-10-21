@@ -1,0 +1,22 @@
+
+t
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÂŠªıÿÿÿÿ
+t
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(šÍ×ÿÿÿÿÿ
+o
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷¬ƒÕ
+_
+java:S1192A"IDefine a constant instead of duplicating this literal "password" 3 times.(šçòí
+a
+java:S1192+"FDefine a constant instead of duplicating this literal "email" 4 times.(ÌÒâÈşÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+E	java:S106."+Replace this use of System.out by a logger.(ÉşÛéùÿÿÿÿ
+\
+java:S1126V"AReplace this if-then-else statement by a single return statement.(ÉÇİëıÿÿÿÿ
